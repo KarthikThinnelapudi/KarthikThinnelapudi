@@ -1,160 +1,97 @@
-# Hi, I'm Karthik Reddy
+<h1 align="center">Hi 👋, I'm Karthik Reddy Thinnelapudi</h1>
 
-### Salesforce Developer | Full-Stack Developer | AI & Automation
+<h3 align="center">Salesforce Developer | Apex | LWC | SOQL | Flow | Integrations</h3>
 
-I build business-focused applications using Salesforce, modern web technologies, databases, and AI integrations. My current focus is developing strong skills across **Salesforce development, full-stack engineering, system integration, and AI-powered automation**.
+
+<p align="center">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KarthikThinnelapudi&show_icons=true&theme=default&hide=issues" />
+  &nbsp;&nbsp;
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikThinnelapudi&layout=compact&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KarthikThinnelapudi" alt="Profile views" />
+</p>
 
 ---
 
 ## About Me
 
-I'm focused on building practical software solutions that connect business requirements with modern technology.
+I am a Salesforce Developer focused on building practical, maintainable CRM solutions using Apex, Lightning Web Components (LWC), and platform automation. I deliver integrations, custom business logic, and data models that solve real business problems while following Salesforce best practices and governor limits.
 
-My current areas of focus include:
+I prioritize clean, testable Apex code, efficient SOQL/SOSL, and design patterns that work on the Salesforce platform.
 
-- **Salesforce Development** — Apex, SOQL, Lightning Web Components (LWC), automation, and Salesforce development workflows
-- **Full-Stack Development** — Next.js, React, TypeScript, APIs, authentication, and database-driven applications
-- **AI Integration** — integrating AI APIs into business applications and workflows
-- **Database Development** — PostgreSQL, relational database design, and Prisma ORM
-- **Software Engineering** — Git/GitHub, TypeScript, validation, testing, deployment, and debugging
+---
 
-My goal is to build reliable applications that solve real business problems rather than simply demonstrate technologies.
+## Core Salesforce Skills
+
+- Apex (synchronous and asynchronous)
+- Lightning Web Components (LWC)
+- SOQL / SOSL
+- Salesforce Flows (screen & automation flows)
+- Triggers & trigger frameworks
+- REST APIs & platform integrations
+- Named Credentials & authentication patterns
+- Salesforce data modeling & schema design
+- Governor limits awareness & bulkification
 
 ---
 
 ## Tech Stack
 
-### Salesforce
-- Apex
-- SOQL
-- Lightning Web Components (LWC)
-- Salesforce Automation
-- Salesforce CLI / SFDX
+Salesforce-first. Technologies I actively use:
 
-### Languages
-- TypeScript
-- JavaScript
-- Apex
-- SQL
+- Salesforce Platform: Apex, LWC, Visualforce (where applicable), SOQL/SOSL, Flows, Triggers
+- Integrations: REST APIs, Named Credentials, Platform Events (where used)
+- Dev Tools: Salesforce CLI (SFDX), VS Code, Git/GitHub
+- Supporting stack (for complementary projects): TypeScript, Next.js, React, PostgreSQL
 
-### Frontend
-- React
-- Next.js
-- Tailwind CSS
-- Lucide React
-- Recharts
-- Framer Motion
-
-### Backend & APIs
-- Next.js API Routes
-- REST APIs
-- Authentication
-- OAuth / NextAuth.js
-
-### Database
-- PostgreSQL
-- Prisma ORM
-- SQL
-- pgvector
-
-### AI & Integrations
-- Google Gemini API
-- OpenRouter
-- NVIDIA AI
-- OmniRoute
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- ESLint
-- Zod
-- Vercel
+(Only technologies I have used are listed above.)
 
 ---
 
-## Featured Projects
-
-### LOOP — AI Customer Feedback Intelligence Platform
-
-An AI-powered customer feedback application designed to help teams organize, analyze, and extract actionable insights from customer feedback.
-
-**Key areas:**
-- Customer feedback management
-- AI-powered analysis
-- Sentiment and theme analysis
-- Role-based access control
-- Dashboard and analytics
-- AI-assisted feedback insights
-- Database-backed application architecture
-
-**Tech Stack**
-
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Google Gemini` `NextAuth.js` `Tailwind CSS`
-
-🔗 [View on GitHub](https://github.com/KarthikThinnelapudi/loop-ai-customer-feedback)
-
-🌐 [Live Demo](https://loop-ai-customer-feedback-5c9p.vercel.app/)
-
----
+## Featured Projects (Salesforce-first)
 
 ### NBKR College Portal
+A Salesforce-based college portal built to practice custom application patterns on the platform. The project demonstrates Apex controllers, SOQL queries, Visualforce/LWC UI components, and Salesforce data modeling for student/course records.
 
-A Salesforce-based college portal project developed to practice Salesforce application development, Apex, Visualforce, and Salesforce platform concepts.
+Technologies: Salesforce Platform (Apex, SOQL), Visualforce, LWC
 
-**Key areas:**
-- Salesforce application development
-- Visualforce
-- Apex
-- Salesforce data handling
-- Custom application UI
-
-**Tech Stack**
-
-`Salesforce` `Apex` `Visualforce` `SOQL`
-
-🔗 [View on GitHub](https://github.com/KarthikThinnelapudi/NBKrcollegeportal)
+Repository: https://github.com/KarthikThinnelapudi/NBKRCollegePortal
 
 ---
 
-## Salesforce Development
+## Other Notable Projects
 
-I'm developing my Salesforce expertise through hands-on projects and structured practice.
+### LOOP — AI Customer Feedback Intelligence Platform
+An AI-backed feedback analysis application focused on organizing and extracting actionable insights from user feedback. This project is full-stack and complements my Salesforce work by demonstrating integrations, APIs, and data-driven UIs.
 
-Areas of focus:
+Technologies: Next.js, TypeScript, PostgreSQL, Prisma, AI integrations
 
-- Apex programming
-- SOQL
-- Lightning Web Components
-- Salesforce automation
-- Salesforce data modeling
-- Salesforce development workflows
-- Integration concepts
-- Governor limits and platform best practices
+Repository: https://github.com/KarthikThinnelapudi/loop-ai-customer-feedback
+Live demo: https://loop-ai-customer-feedback.vercel.app/
 
 ---
 
-## Current Focus
+## Trailhead & Credentials
 
-### Salesforce Development → Integration → AI
+I use Salesforce Trailhead for structured learning and Superbadges as hands-on verification. Add a link to your Trailhead profile here if you want recruiters to see specific badges or Superbadges.
 
-My objective is to build applications that combine CRM/business platforms with modern software engineering and AI capabilities.
-
-**Current roadmap:**
-
-**Salesforce Development**  
-↓  
-**APIs & System Integration**  
-↓  
-**Full-Stack Applications**  
-↓  
-**AI-Powered Automation**
+(If you want, I can add a list of verified Superbadges and the Trailhead profile link once you provide them.)
 
 ---
 
-## Connect
+## Featured Repositories
 
-- **GitHub:** [KarthikThinnelapudi](https://github.com/KarthikThinnelapudi)
-- **LinkedIn:** [Karthik Reddy Thinnelapudi](https://www.linkedin.com/in/karthik-reddy-thinnelapudi-20s/)
+- NBKRCollegePortal — https://github.com/KarthikThinnelapudi/NBKRCollegePortal
+- loop-ai-customer-feedback — https://github.com/KarthikThinnelapudi/loop-ai-customer-feedback
+- Profile repo — https://github.com/KarthikThinnelapudi/KarthikThinnelapudi
 
-**Open to:** Salesforce Developer, Full-Stack Developer, Integration, and AI application opportunities.
+---
+
+## Contact
+
+- GitHub: https://github.com/KarthikThinnelapudi
+- LinkedIn: https://www.linkedin.com/in/karthik-reddy-thinnelapudi-20s/
+
+I'm open to Salesforce Developer roles focused on Apex, LWC, integrations, and platform automation. If you'd like me to highlight specific Trailhead Superbadges, certifications, or add screenshots from projects, provide the verified links and I will update this README.
